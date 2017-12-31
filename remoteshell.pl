@@ -21,12 +21,12 @@ sub rmtshell {
 
 );
 print color('reset');
-print colored ("--==[ Remote ur webshell with this fucking tools XD",'bold green'); 
+print colored ("--==[ Remote ur WebShell with this fucking tools XD",'bold green'); 
 print " \n"; 
 print colored ("--==[ By 4WSec - Anon Cyber Team",'bold green');
 print " \n\n";
 print q(
-1. Membuat Webshell
+1. Membuat WebShell
 2. Backconnect
 3. Keluar
 
